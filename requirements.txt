@@ -1,0 +1,7 @@
+requests
+python-dotenv
+PyJWT==2.6.0
+loguru
+dnspython
+ipaddress
+cloudflare
